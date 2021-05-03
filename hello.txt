@@ -1,1 +1,2 @@
 Hello, Java world! master add
+Hello, Java world! hot-fix add
